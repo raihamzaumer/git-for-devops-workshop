@@ -4,6 +4,7 @@
   git commit -m ""
   git restore filename
 
+  ##These are some new changes
   git remote add origin https://github.com/raihamzaumer/git-for-devops-workshop.git
   git remote -v
   git status
@@ -11,5 +12,4 @@
   git remote set-url origin https:// ##place here your personal access token### @github.com/raihamzaumer/git-for-devops-workshop
   git remote -v
   git push origin master 
-
 
