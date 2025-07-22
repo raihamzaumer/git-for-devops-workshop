@@ -1,7 +1,7 @@
 """This module contains demo functions."""
 
 
-def hello():  
+def hello():
     """
     this is demo
     """
