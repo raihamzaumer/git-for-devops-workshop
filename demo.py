@@ -4,6 +4,4 @@ def hello():
     """This is a demo function."""
     return "hello hamza"
 
-
 hello()
-
